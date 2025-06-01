@@ -81,4 +81,4 @@ MIT License
 ## Acknowledgments
 
 - Data generated using [Murata SimSurfing](https://ds.murata.co.jp/simsurfing/)
-- Analysis and visualization by [Your Name]
+- Analysis and visualization by Chris Dirks 2025
